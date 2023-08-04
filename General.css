@@ -1,0 +1,52 @@
+#header {
+  color: black;
+}
+div#nav {
+ background-color: transparent;
+  color: black;
+}
+div#nav ul li a {
+  color: black;
+}
+div#feature {
+ background-color: transparent;
+ background-image: url("");
+ background-size:contain;
+ background-position: right;
+ background-repeat:no-repeat;
+}
+div#footer {
+  background-color: transparent;
+}
+
+.article.column1 {
+  background-color: transparent
+}
+.article.column2 {
+  background-color: transparent
+}
+
+
+body {
+  background-image: url('https://wallpaper-house.com/data/out/5/wallpaper2you_63188.jpg');
+  background-size: cover;
+
+}
+h1{
+   color: black;
+   font-family: 'OSPLepatinhelveteMedium';
+   font-weight: normal;
+   font-style: normal;
+}
+label, h2 , h3,  h4, a, b{
+   color: black;
+   font-family: 'OSPLepatinhelveteMedium';
+   font-weight: normal;
+   font-style: normal;
+}
+p{
+     color: black;
+   font-family: 'OSPLepatinhelveteMedium';
+   font-weight: normal;
+   font-style: normal;
+}
